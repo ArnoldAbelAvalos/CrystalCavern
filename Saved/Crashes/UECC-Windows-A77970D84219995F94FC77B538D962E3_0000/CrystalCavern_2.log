@@ -1,0 +1,1340 @@
+﻿Log file open, 09/14/22 21:21:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=15240)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CrystalCavern
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "E:/my games/CrystalCavern/CrystalCavern.uproject" -EpicPortal -epicusername=AzraelPy -epicuserid=da255348264448329aaf3fad9543ad18 -epiclocale=en -epicsandboxid=ue""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2006] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7 CPU         960  @ 3.20GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="be3c37ac491436769a3b21ba2e8a81f2"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 3.466735
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -4:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-A77970D84219995F94FC77B538D962E3
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.06 seconds
+LogConfig: Display: Loading IOS ini files took 0.10 seconds
+LogConfig: Display: Loading Linux ini files took 0.10 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.12 seconds
+LogConfig: Display: Loading TVOS ini files took 0.05 seconds
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.11 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.04 seconds
+LogConfig: Display: Loading Mac ini files took 0.09 seconds
+LogConfig: Display: Loading Windows ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.2006] (), CPU: Intel(R) Core(TM) i7 CPU         960  @ 3.20GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  -EpicPortal -epicusername=AzraelPy -epicuserid=da255348264448329aaf3fad9543ad18 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: E:/Program Files (x86)/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.09.15-01.21.50:345][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.09.15-01.21.50:346][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.09.15-01.21.50:346][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.09.15-01.21.50:346][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.09.15-01.21.50:347][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.09.15-01.21.50:347][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.09.15-01.21.50:347][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.09.15-01.21.50:347][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.09.15-01.21.50:347][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.09.15-01.21.50:347][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.09.15-01.21.50:347][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.09.15-01.21.50:347][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.09.15-01.21.50:347][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.09.15-01.21.50:347][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.09.15-01.21.50:349][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.09.15-01.21.50:349][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.09.15-01.21.50:349][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.09.15-01.21.50:349][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.09.15-01.21.50:349][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.09.15-01.21.50:349][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.09.15-01.21.50:349][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.09.15-01.21.50:349][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.09.15-01.21.50:349][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.09.15-01.21.50:350][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.09.15-01.21.50:350][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.09.15-01.21.50:423][  0]LogD3D12RHI: Aftermath initialized
+[2022.09.15-01.21.50:423][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.09.15-01.21.50:644][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1060 6GB (Max supported Feature Level 12_1, shader model 6.6)
+[2022.09.15-01.21.50:644][  0]LogD3D12RHI: Adapter has 6052MB of dedicated video memory, 0MB of dedicated system memory, and 6139MB of shared system memory, 1 output[s]
+[2022.09.15-01.21.50:661][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.09.15-01.21.50:661][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 6139MB of shared system memory, 0 output[s]
+[2022.09.15-01.21.50:661][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.09.15-01.21.50:662][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.09.15-01.21.50:662][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.09.15-01.21.50:662][  0]LogHAL: Display: Platform has ~ 12 GB [12875579392 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.09.15-01.21.50:662][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.09.15-01.21.50:662][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.09.15-01.21.50:662][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.09.15-01.21.50:679][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.09.15-01.21.50:679][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/my games/CrystalCavern/Saved/Config/WindowsEditor/Editor.ini]
+[2022.09.15-01.21.50:679][  0]LogInit: Computer: DESKTOP-QMVL5KQ
+[2022.09.15-01.21.50:679][  0]LogInit: User: Arn0l
+[2022.09.15-01.21.50:679][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.09.15-01.21.50:679][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.09.15-01.21.50:679][  0]LogMemory: Memory total: Physical=12.0GB (12GB approx)
+[2022.09.15-01.21.50:679][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.09.15-01.21.50:679][  0]LogMemory: Process Physical Memory: 261.64 MB used, 271.97 MB peak
+[2022.09.15-01.21.50:679][  0]LogMemory: Process Virtual Memory: 204.57 MB used, 204.57 MB peak
+[2022.09.15-01.21.50:679][  0]LogMemory: Physical Memory: 8140.87 MB used,  4138.24 MB free, 12279.11 MB total
+[2022.09.15-01.21.50:679][  0]LogMemory: Virtual Memory: 17962.30 MB used,  3330.44 MB free, 21292.74 MB total
+[2022.09.15-01.21.50:679][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.09.15-01.21.50:687][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.09.15-01.21.50:850][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.09.15-01.21.50:866][  0]LogInit: Overriding language with editor language configuration option (en).
+[2022.09.15-01.21.50:866][  0]LogInit: Overriding language with editor locale configuration option (en).
+[2022.09.15-01.21.51:573][  0]LogInit: Setting process to per monitor DPI aware
+[2022.09.15-01.21.51:583][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.09.15-01.21.51:583][  0]LogWindowsTextInputMethodSystem:   - Inglés (Estados Unidos) - (Keyboard).
+[2022.09.15-01.21.51:583][  0]LogWindowsTextInputMethodSystem:   - Español (España, internacional) - (Keyboard).
+[2022.09.15-01.21.51:583][  0]LogWindowsTextInputMethodSystem: Activated input method: Inglés (Estados Unidos) - (Keyboard).
+[2022.09.15-01.21.52:009][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.09.15-01.21.52:009][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.09.15-01.21.55:684][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.09.15-01.21.55:689][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.09.15-01.21.55:689][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.09.15-01.21.55:790][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.09.15-01.21.55:790][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.09.15-01.21.55:790][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.09.15-01.21.55:790][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.09.15-01.21.55:790][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.09.15-01.21.55:790][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.09.15-01.21.55:790][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.09.15-01.21.55:790][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.09.15-01.21.55:790][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.09.15-01.21.55:790][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.09.15-01.21.55:790][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.09.15-01.21.55:790][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.09.15-01.21.55:790][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.09.15-01.21.55:790][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.09.15-01.21.55:865][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.09.15-01.21.55:874][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.09.15-01.21.55:890][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.09.15-01.21.55:903][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.09.15-01.21.55:903][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.09.15-01.21.56:029][  0]LogD3D12RHI: Warning: Ray tracing is disabled for NVIDIA cards with the Pascal architecture.
+[2022.09.15-01.21.56:029][  0]LogD3D12RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2022.09.15-01.21.56:029][  0]LogWindows: Attached monitors:
+[2022.09.15-01.21.56:029][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.09.15-01.21.56:029][  0]LogWindows: Found 1 attached monitors.
+[2022.09.15-01.21.56:029][  0]LogWindows: EnumDisplayDevices:
+[2022.09.15-01.21.56:029][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.09.15-01.21.56:030][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.09.15-01.21.56:030][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.09.15-01.21.56:030][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.09.15-01.21.56:030][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.09.15-01.21.56:030][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2022.09.15-01.21.56:030][  0]LogD3D12RHI:   Driver Version: 516.59 (internal:31.0.15.1659, unified:516.59)
+[2022.09.15-01.21.56:030][  0]LogD3D12RHI:      Driver Date: 6-23-2022
+[2022.09.15-01.21.56:030][  0]LogRHI: Texture pool is 3328 MB (70% of 4755 MB)
+[2022.09.15-01.21.56:030][  0]LogD3D12RHI: Async texture creation enabled
+[2022.09.15-01.21.56:031][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.09.15-01.21.56:052][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.09.15-01.21.56:168][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="E:/my games/CrystalCavern/CrystalCavern.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/my games/CrystalCavern/Intermediate/TurnkeyReport_0.log" -log="E:/my games/CrystalCavern/Intermediate/TurnkeyLog_0.log" -project="E:/my games/CrystalCavern/CrystalCavern.uproject"  -platform=all'
+[2022.09.15-01.21.56:168][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""E:/Program Files (x86)/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="E:/my games/CrystalCavern/CrystalCavern.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/my games/CrystalCavern/Intermediate/TurnkeyReport_0.log" -log="E:/my games/CrystalCavern/Intermediate/TurnkeyLog_0.log" -project="E:/my games/CrystalCavern/CrystalCavern.uproject"  -platform=all" ]
+[2022.09.15-01.21.56:327][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.09.15-01.21.56:493][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.09.15-01.21.56:493][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.09.15-01.21.56:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.09.15-01.21.56:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.09.15-01.21.56:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.09.15-01.21.56:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.09.15-01.21.56:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.09.15-01.21.56:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.09.15-01.21.56:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.09.15-01.21.56:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.09.15-01.21.56:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.09.15-01.21.56:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.09.15-01.21.56:643][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.09.15-01.21.56:643][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.09.15-01.21.56:683][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.09.15-01.21.56:683][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.09.15-01.21.56:739][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.09.15-01.21.56:739][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.09.15-01.21.56:739][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.09.15-01.21.56:739][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.09.15-01.21.56:770][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.09.15-01.21.56:770][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.09.15-01.21.56:770][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.09.15-01.21.56:803][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.09.15-01.21.56:803][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.09.15-01.21.56:893][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.09.15-01.21.56:893][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.09.15-01.21.56:893][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.09.15-01.21.56:893][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.09.15-01.21.56:893][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.09.15-01.21.57:015][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.09.15-01.21.57:043][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.09.15-01.21.57:043][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.09.15-01.21.57:043][  0]LogTargetPlatformManager:   ADPCM
+[2022.09.15-01.21.57:043][  0]LogTargetPlatformManager:   PCM
+[2022.09.15-01.21.57:065][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.09.15-01.21.57:065][  0]LogTargetPlatformManager:   BINKA
+[2022.09.15-01.21.57:065][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.09.15-01.21.57:065][  0]LogTargetPlatformManager:   OGG
+[2022.09.15-01.21.57:065][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.09.15-01.21.57:065][  0]LogTargetPlatformManager:   OPUS
+[2022.09.15-01.21.57:998][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.09.15-01.21.58:043][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.09.15-01.21.58:043][  0]LogTargetPlatformManager:   SF_METAL
+[2022.09.15-01.21.58:043][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.09.15-01.21.58:043][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.09.15-01.21.58:043][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.09.15-01.21.58:043][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.09.15-01.21.58:043][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.09.15-01.21.58:043][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.09.15-01.21.58:043][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.09.15-01.21.58:043][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.09.15-01.21.58:043][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.09.15-01.21.58:043][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.09.15-01.21.58:043][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.09.15-01.21.58:043][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.09.15-01.21.58:043][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.09.15-01.21.58:043][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.09.15-01.21.58:063][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.09.15-01.21.58:063][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.09.15-01.21.58:063][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.09.15-01.21.58:063][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.09.15-01.21.58:063][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.09.15-01.21.58:063][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.09.15-01.21.58:063][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.09.15-01.21.58:063][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.09.15-01.21.58:063][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../my games/CrystalCavern/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.09.15-01.21.58:081][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.09.15-01.21.58:081][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../my games/CrystalCavern/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.09.15-01.21.58:115][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.09.15-01.21.58:130][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../my games/CrystalCavern/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.09.15-01.21.58:130][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.09.15-01.21.58:130][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../my games/CrystalCavern/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.15-01.21.58:130][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.09.15-01.21.58:232][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.09.15-01.21.58:232][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.15-01.21.58:232][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.09.15-01.21.58:256][  0]LogDerivedDataCache: Speed tests for C:/Users/Arn0l/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2022.09.15-01.21.58:256][  0]LogDerivedDataCache: Display: Performance to C:/Users/Arn0l/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.14ms. RandomReadSpeed=65.74MBs, RandomWriteSpeed=118.63MBs. Assigned SpeedClass 'Local'
+[2022.09.15-01.21.58:258][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Arn0l/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.09.15-01.21.58:258][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.09.15-01.21.58:258][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.09.15-01.21.58:268][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.09.15-01.21.58:268][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.09.15-01.21.58:268][  0]LogShaderCompilers: Guid format shader working directory is 8 characters bigger than the processId version (../../../../../my games/CrystalCavern/Intermediate/Shaders/WorkingDirectory/14712/).
+[2022.09.15-01.21.58:269][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Arn0l/AppData/Local/Temp/UnrealShaderWorkingDir/2ECBBA834BCEAAC29795ABA8C004014A/'.
+[2022.09.15-01.21.58:269][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.09.15-01.21.58:269][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2022.09.15-01.22.10:822][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.09.15-01.22.10:822][  0]LogSlate: Using FreeType 2.10.0
+[2022.09.15-01.22.10:822][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.09.15-01.22.11:040][  0]LogAssetRegistry: FAssetRegistry took 0.0197 seconds to start up
+[2022.09.15-01.22.11:047][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.09.15-01.22.11:581][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.09.15-01.22.11:582][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.09.15-01.22.12:016][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.09.15-01.22.12:016][  0]LogDeviceProfileManager: Active device profile: [000007AB96AF6AC0][000007AB8D700000 50] WindowsEditor
+[2022.09.15-01.22.12:016][  0]LogDeviceProfileManager: Profiles: [000007AB96AF6580][000007AB7BF25000 50] Windows, [000007AB96AF6AC0][000007AB8D700000 50] WindowsEditor, [000007AB96AF6C80][000007AB8D6CA000 50] WindowsServer, [000007AB96AF2840][000007AB96D40000 50] WindowsClient, [000007AB96AF5240][000007AB96D45000 50] IOS, [000007AB96AF2680][000007AB96D47800 50] iPadAir2, [000007AB96AF4440][000007AB96D4C800 50] IPadPro, [000007AB96AF4D00][000007AB96D4A000 50] iPadAir3, [000007AB96AF5400][000007AB8B512800 50] iPadAir4, [000007AB96AF2BC0][000007AB96D50000 50] iPadMini4, [000007AB96AF5780][000007AB96D55000 50] iPadMini5, [000007AB96AF39C0][000007AB96D57800 50] iPadMini6, [000007AB96AF9680][000007AB96D42800 50] iPhone6S, [000007AB96AF9A00][000007AB96D5C800 50] iPhone7, [000007AB96AF7000][000007AB96D5A000 50] iPodTouch7, [000007AB96AF9300][000007AB96D80000 50] iPhone6SPlus, [000007AB96AF9BC0][000007AB96D85000 50] iPhone7Plus, [000007AB96AF4600][000007AB96D87800 50] iPhoneSE, [000007AB96AF2D80][000007AB96D8A000 50] iPhone8, [000007AB96AF8340][000007AB96D8C800 50] iPhone8Plus, [000007AB96AF5080][000007AB96D52800 50] iPhoneX, [000007AB96AF0FC0][000007AB96D90000 50] iPhoneXS, [000007AB96AF5CC0][000007AB96D95000 50] iPhoneXSMax, [000007AB96AF8880][000007AB96D97800 50] iPhoneXR, [000007AB96AF24C0][000007AB96D9A000 50] iPhone11, [000007AB96AF4EC0][000007AB96D9C800 50] iPhone11Pro, [000007AB96AF55C0][000007AB96D82800 50] iPhone11ProMax, [000007AB96AF8DC0][000007AB96DB0000 50] iPhoneSE2, [000007AB96AF86C0][000007AB96DB5000 50] iPhone12Mini, [000007AB96AF1880][000007AB96DB7800 50] iPhone12, [000007AB96AF3B80][000007AB96DBA000 50] iPhone12Pro, [000007AB96AF8A40][000007AB96DBC800 50] iPhone12ProMax, [000007AB96AF7380][000007AB96D92800 50] iPhone13Mini, [000007AB96AF3800][000007AB96DC0000 50] iPhone13, [000007AB96AF8C00][000007AB96DC5000 50] iPhone13Pro, [000007AB96AF8500][000007AB96DC7800 50] iPhone13ProMax, [000007AB96AF78C0][000007AB96DCA000 50] iPadPro105, [000007AB96AF1F80][000007AB96DCC800 50] iPadPro129, [000007AB96AF8180][000007AB96DB2800 50] iPadPro97, [000007AB96AF7FC0][000007AB96DD0000 50] iPadPro2_129, [000007AB96AF1500][000007AB96DD5000 50] iPad5, [000007AB96AF3F00][000007AB96DD7800 50] iPad6, [000007AB96AF8F80][000007AB96DDA000 50] iPad7, [000007AB96AF5B00][000007AB96DDC800 50] iPad8, [000007AB96AF5E80][000007AB96DC2800 50] iPad9, [000007AB96AF2300][000007AB96DF0000 50] iPadPro11, [000007AB96AF7540][000007AB96DF5000 50] iPadPro2_11, [000007AB96AF32C0][000007AB96DF7800 50] iPadPro3_11, [000007AB96AF47C0][000007AB96DFA000 50] iPadPro3_129, [000007AB96AF7A80][000007AB96DFC800 50] iPadPro4_129, [000007AB96AF6200][000007AB96DD2800 50] iPadPro5_129, [000007AB96AF9840][000007AB96E00000 50] AppleTV, [000007AB96AF2140][000007AB96E05000 50] AppleTV4K, [000007AB96AF9D80][000007AB96E07800 50] TVOS, [000007AB96AFBB40][000007AB96E0C800 50] Mac, [000007AB96AFBEC0][000007AB96E0A000 50] MacEditor, [000007AB96AFA480][000007AB96DF2800 50] MacClient, [000007AB96AF7700][000007AB96E10000 50] MacServer, [000007AB96AFC400][000007AB96E17800 50] Linux, [000007AB96AF6040][000007AB96E15000 50] LinuxEditor, [000007AB96AF5940][000007AB96E1A000 50] LinuxArm64Editor, [000007AB96AFB280][000007AB96E1C800 50] LinuxArm64, [000007AB96AF2A00][000007AB96E02800 50] LinuxClient, [000007AB96AF6900][000007AB96E20000 50] LinuxArm64Client, [000007AB96AFC240][000007AB96E25000 50] LinuxServer, [000007AB96AF6E40][000007AB96E27800 50] LinuxArm64Server, [000007AB96AF9F40][000007AB96E2A000 50] Android, [000007AB96AFC5C0][000007AB96E2C800 50] Android_Preview_OpenGL, [000007AB96AFC080][000007AB96E12800 50] Android_Preview_Vulkan, [000007AB96AFA9C0][000007AB96E30000 50] Android_Low, [000007AB96AFBD00][000007AB96E35000 50] Android_Mid, [000007AB96AFB440][000007AB96E37800 50] Android_High, [000007AB96AF94C0][000007AB96E3A000 50] Android_Default, [000007AB96AFA800][000007AB96E3C800 50] Android_Adreno4xx, [000007AB96AFB0C0][000007AB96E22800 50] Android_Adreno5xx_Low, [000007AB96AFAF00][000007AB96E40000 50] Android_Adreno5xx, [000007AB96AF2F40][000007AB96E45000 50] Android_Adreno6xx, [000007AB96AF71C0][000007AB96E47800 50] Android_Adreno6xx_Vulkan, [000007AB96AFB980][000007AB96E4A000 50] Android_Adreno7xx, [000007AB96AFCB00][000007AB96E4C800 50] Android_Adreno7xx_Vulkan, [000007AB96AF3480][000007AB96E32800 50] Android_Mali_T6xx, [000007AB96AFC780][000007AB96E50000 50] Android_Mali_T7xx, [000007AB96AFA2C0][000007AB96E55000 50] Android_Mali_T8xx, [000007AB96AFB7C0][000007AB96E57800 50] Android_Mali_G71, [000007AB96AFD3C0][000007AB96E5A000 50] Android_Mali_G72, [000007AB96AF4980][000007AB96E5C800 50] Android_Mali_G72_Vulkan, [000007AB96AFDAC0][000007AB96E42800 50] Android_Mali_G76, [000007AB96AFAD40][000007AB96E60000 50] Android_Mali_G76_Vulkan, [000007AB96AFD580][000007AB96E65000 50] Android_Mali_G77, [000007AB96AFAB80][000007AB96E67800 50] Android_Mali_G77_Vulkan, [000007AB96AFD900][000007AB96E6A000 50] Android_Mali_G78, [000007AB96AFA100][000007AB96E6C800 50] Android_Mali_G78_Vulkan, [000007AB96AF4B40][000007AB96E52800 50] Android_Mali_G710, [000007AB96AFE380][000007AB96E70000 50] Android_Mali_G710_Vulkan, [000007AB96AFC940][000007AB96E75000 50] Android_Xclipse_920, [000007AB96AFEA80][000007AB96E77800 50] Android_Xclipse_920_Vulkan, [000007AB96AF7C40][000007AB96E7A000 50] Android_Vulkan_SM5, [000007AB96AFE000][000007AB96E7C800 50] Android_PowerVR_G6xxx, [000007AB96AFA640][000007AB96E62800 50] Android_PowerVR_GT7xxx, [000007AB96AFE8C0][000007AB96E80000 50] Android_PowerVR_GE8xxx, [000007AB96AF7E00][000007AB96E85000 50] Android_PowerVR_GM9xxx, [000007AB96AFF340][000007AB96E87800 50] Android_PowerVR_GM9xxx_Vulkan, [000007AB96AFDE40][000007AB96E8A000 50] Android_TegraK1, [000007AB96AFCCC0][000007AB96E8C800 50] Android_Unknown_Vulkan, [000007AB96AFD040][000007AB96E72800 50] Oculus_Quest, [000007AB96AFF500][000007AB96E90000 50] Oculus_Quest2, [000007AB96AFCE80][000007AB96E95000 50] HoloLens, 
+[2022.09.15-01.22.12:016][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.09.15-01.22.12:453][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.09.15-01.22.12:817][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.09.15-01.22.13:271][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.09.15-01.22.13:271][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.09.15-01.22.13:271][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.09.15-01.22.13:271][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.09.15-01.22.13:271][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.09.15-01.22.13:547][  0]LogNetVersion: CrystalCavern 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2031439711)
+[2022.09.15-01.22.15:449][  0]LogSlate: Border
+[2022.09.15-01.22.15:449][  0]LogSlate: BreadcrumbButton
+[2022.09.15-01.22.15:449][  0]LogSlate: Default
+[2022.09.15-01.22.15:449][  0]LogSlate: Icons.Save
+[2022.09.15-01.22.15:449][  0]LogSlate: Icons.Toolbar.Settings
+[2022.09.15-01.22.15:449][  0]LogSlate: ListView
+[2022.09.15-01.22.15:449][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.09.15-01.22.15:449][  0]LogSlate: SoftwareCursor_Grab
+[2022.09.15-01.22.15:449][  0]LogSlate: TableView.DarkRow
+[2022.09.15-01.22.15:449][  0]LogSlate: TableView.Row
+[2022.09.15-01.22.15:449][  0]LogSlate: TreeView
+[2022.09.15-01.22.20:068][  0]SourceControl: Source control is disabled
+[2022.09.15-01.22.20:411][  0]SourceControl: Source control is disabled
+[2022.09.15-01.22.20:411][  0]SourceControl: Source control is disabled
+[2022.09.15-01.22.20:978][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.09.15-01.22.20:978][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2022.09.15-01.22.20:978][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.09.15-01.22.25:170][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: CA5EDDC74B2D6F9CE6E4BEA41CB75074 | Instance: 305F8A3F463C66A94B832A859097409A (DESKTOP-QMVL5KQ-14712).
+[2022.09.15-01.22.25:677][  0]LogPython: Using Python 3.9.7
+[2022.09.15-01.22.28:149][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.09.15-01.22.28:171][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.09.15-01.22.28:664][  0]SourceControl: Source control is disabled
+[2022.09.15-01.22.28:758][  0]SourceControl: Source control is disabled
+[2022.09.15-01.22.28:972][  0]SourceControl: Source control is disabled
+[2022.09.15-01.22.30:266][  0]LogUProjectInfo: Found projects:
+[2022.09.15-01.22.30:804][  0]LogOpenImageDenoise: OIDN starting up
+[2022.09.15-01.22.31:093][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.09.15-01.22.31:191][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.15-01.22.31:191][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.15-01.22.31:582][  0]LogCollectionManager: Loaded 0 collections in 0.001213 seconds
+[2022.09.15-01.22.32:013][  0]LogFileCache: Scanning file cache for directory 'E:/my games/CrystalCavern/Saved/Collections/' took 0.00s
+[2022.09.15-01.22.32:013][  0]LogFileCache: Scanning file cache for directory 'E:/my games/CrystalCavern/Content/Developers/Arn0l/Collections/' took 0.00s
+[2022.09.15-01.22.32:013][  0]LogFileCache: Scanning file cache for directory 'E:/my games/CrystalCavern/Content/Collections/' took 0.00s
+[2022.09.15-01.22.32:750][  0]LogEngine: Initializing Engine...
+[2022.09.15-01.22.32:809][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.09.15-01.22.32:812][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.09.15-01.22.34:279][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.09.15-01.22.34:280][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.15-01.22.34:308][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.15-01.22.34:399][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.09.15-01.22.34:400][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.09.15-01.22.34:535][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.09.15-01.22.34:546][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.09.15-01.22.34:546][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.09.15-01.22.34:547][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.09.15-01.22.34:547][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.09.15-01.22.34:547][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.15-01.22.34:547][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.15-01.22.34:547][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.15-01.22.34:547][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.15-01.22.34:547][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.15-01.22.34:547][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.15-01.22.34:547][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.15-01.22.34:547][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.15-01.22.34:547][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.15-01.22.34:547][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.15-01.22.34:547][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.15-01.22.34:575][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.15-01.22.34:642][  0]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (HyperX Virtual Surround Sound)
+[2022.09.15-01.22.34:642][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.15-01.22.34:693][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.15-01.22.34:693][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.15-01.22.34:694][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.09.15-01.22.34:694][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.09.15-01.22.34:695][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.09.15-01.22.34:695][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.09.15-01.22.34:695][  0]LogInit: FAudioDevice initialized.
+[2022.09.15-01.22.34:696][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.09.15-01.22.34:696][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.09.15-01.22.34:696][  0]LogInit: Texture streaming: Enabled
+[2022.09.15-01.22.34:866][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.09.15-01.22.34:896][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.09.15-01.22.34:914][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={A4BF70AE-4824-7DD7-F999-54B97889F713}
+[2022.09.15-01.22.35:005][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.09.15-01.22.35:063][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.09.15-01.22.35:063][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.09.15-01.23.03:777][  0]LogLiveCoding: Display: First instance in process group "UE_CrystalCavern_0x49f38ae7", spawning console
+[2022.09.15-01.23.03:777][  0]LogLiveCoding: Display: Waiting for server
+[2022.09.15-01.23.03:777][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.09.15-01.23.03:817][  0]LogInit: Transaction tracking system initialized
+[2022.09.15-01.23.04:194][  0]BlueprintLog: New page: Editor Load
+[2022.09.15-01.23.04:890][  0]LocalizationService: Localization service is disabled
+[2022.09.15-01.23.05:069][  0]TimingProfiler: Initialize
+[2022.09.15-01.23.05:069][  0]TimingProfiler: OnSessionChanged
+[2022.09.15-01.23.05:069][  0]LoadingProfiler: Initialize
+[2022.09.15-01.23.05:069][  0]LoadingProfiler: OnSessionChanged
+[2022.09.15-01.23.05:069][  0]NetworkingProfiler: Initialize
+[2022.09.15-01.23.05:069][  0]NetworkingProfiler: OnSessionChanged
+[2022.09.15-01.23.05:069][  0]MemoryProfiler: Initialize
+[2022.09.15-01.23.05:069][  0]MemoryProfiler: OnSessionChanged
+[2022.09.15-01.23.10:538][  0]LogFileCache: Scanning file cache for directory 'E:/my games/CrystalCavern/Content/' took 0.01s
+[2022.09.15-01.23.10:538][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.09.15-01.23.11:362][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.09.15-01.23.11:365][  0]SourceControl: Source control is disabled
+[2022.09.15-01.23.11:365][  0]LogUnrealEdMisc: Loading editor; pre map load, took 124.262
+[2022.09.15-01.23.11:365][  0]Cmd: MAP LOAD FILE="../../../../../my games/CrystalCavern/Content/CrystalCavern/Levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.15-01.23.11:365][  0]LightingResults: New page: Lighting Build
+[2022.09.15-01.23.11:385][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.09.15-01.23.11:386][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-01.23.11:386][  0]MapCheck: New page: Map Check
+[2022.09.15-01.23.11:386][  0]LightingResults: New page: Lighting Build
+[2022.09.15-01.23.11:397][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.15-01.23.11:401][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.09.15-01.23.12:318][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Sphere.Shape_Sphere should be resaved to improve async compilation performance.
+[2022.09.15-01.23.12:343][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_QuadPyramid.Shape_QuadPyramid should be resaved to improve async compilation performance.
+[2022.09.15-01.23.12:576][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2022.09.15-01.23.12:576][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.15-01.23.12:576][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.15-01.23.12:577][  0]LogAIModule: Creating AISystem for world Level1
+[2022.09.15-01.23.12:607][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.15-01.23.12:618][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.09.15-01.23.12:618][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.15-01.23.12:618][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.141ms to complete.
+[2022.09.15-01.23.12:618][  0]LogFileHelpers: Loading map 'Level1' took 1.253
+[2022.09.15-01.23.12:664][  0]LogUnrealEdMisc: Total Editor Startup Time, took 125.561
+[2022.09.15-01.23.12:664][  0]LogShaderCompilers: Display: ================================================
+[2022.09.15-01.23.12:664][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.15-01.23.12:664][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.09.15-01.23.12:664][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.09.15-01.23.12:664][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 614.40 MB (0.60 GB) budget. Usage: 0.00%
+[2022.09.15-01.23.12:664][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.09.15-01.23.12:664][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.09.15-01.23.12:664][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.09.15-01.23.12:664][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.09.15-01.23.12:664][  0]LogShaderCompilers: Display: ================================================
+[2022.09.15-01.23.12:805][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.15-01.23.12:805][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.15-01.23.12:806][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.15-01.23.12:806][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.15-01.23.12:806][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.15-01.23.12:866][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.15-01.23.12:878][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.15-01.23.12:891][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.15-01.23.12:905][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.15-01.23.12:968][  0]LogSlate: The tab "TopRightModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.15-01.23.13:070][  0]LogSlate: The tab "BottomRightModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.15-01.23.13:214][  0]LogPakFile: Display: Mounted Pak file 'E:/Program Files (x86)/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.09.15-01.23.13:214][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.15-01.23.13:235][  0]LogPakFile: Display: Mounted Pak file 'E:/Program Files (x86)/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.09.15-01.23.13:235][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.15-01.23.13:331][  0]LogPakFile: Display: Mounted Pak file 'E:/Program Files (x86)/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.09.15-01.23.13:331][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.15-01.23.13:360][  0]LogPakFile: Display: Mounted Pak file 'E:/Program Files (x86)/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.09.15-01.23.13:360][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.15-01.23.13:397][  0]LogPakFile: Display: Mounted Pak file 'E:/Program Files (x86)/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.09.15-01.23.13:397][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.15-01.23.13:421][  0]LogPakFile: Display: Mounted Pak file 'E:/Program Files (x86)/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.09.15-01.23.13:421][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.15-01.23.13:444][  0]LogPakFile: Display: Mounted Pak file 'E:/Program Files (x86)/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.09.15-01.23.13:445][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.15-01.23.13:470][  0]LogPakFile: Display: Mounted Pak file 'E:/Program Files (x86)/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.09.15-01.23.13:470][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.15-01.23.13:492][  0]LogPakFile: Display: Mounted Pak file 'E:/Program Files (x86)/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.09.15-01.23.13:492][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.15-01.23.13:513][  0]LogPakFile: Display: Mounted Pak file 'E:/Program Files (x86)/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.09.15-01.23.13:513][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.15-01.23.13:513][  0]LogFeaturePack: Error: Error in Feature pack E:/Program Files (x86)/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.09.15-01.23.15:638][  0]LogSlate: Took 0.000297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.09.15-01.23.15:643][  0]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.09.15-01.23.16:029][  0]LogSlate: Took 0.385053 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.09.15-01.23.16:059][  0]LogViewport: Scene viewport resized to 1526x902, mode Windowed.
+[2022.09.15-01.23.17:663][  0]LogStall: Startup...
+[2022.09.15-01.23.17:665][  0]LogStall: Startup complete.
+[2022.09.15-01.23.17:717][  0]LogLoad: (Engine Initialization) Total time: 130.61 seconds
+[2022.09.15-01.23.17:717][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.09.15-01.23.17:808][  0]LogAssetRegistry: Asset discovery search completed in 66.7700 seconds
+[2022.09.15-01.23.17:938][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.09.15-01.23.17:983][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.09.15-01.23.19:362][  4]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.09.15-01.24.02:049][133]LogDerivedDataCache: C:/Users/Arn0l/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.658 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.15-01.26.08:241][689]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.09.15-01.26.08:251][689]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.15-01.26.08:270][689]PIE: New page: PIE session: Level1 (Sep 14, 2022, 5:26:08 PM)
+[2022.09.15-01.26.08:274][689]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.09.15-01.26.08:274][689]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.09.15-01.26.08:274][689]LogPlayLevel: Creating play world package: /Game/CrystalCavern/Levels/UEDPIE_0_Level1
+[2022.09.15-01.26.08:284][689]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009793s)
+[2022.09.15-01.26.08:284][689]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CrystalCavern/Levels/Level1.Level1 to /Game/CrystalCavern/Levels/UEDPIE_0_Level1.Level1 (0.009912s)
+[2022.09.15-01.26.08:284][689]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.15-01.26.08:284][689]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.15-01.26.08:284][689]LogAIModule: Creating AISystem for world Level1
+[2022.09.15-01.26.08:285][689]LogPlayLevel: PIE: World Init took: (0.001149s)
+[2022.09.15-01.26.08:295][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.09.15-01.26.08:296][689]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.09.15-01.26.08:296][689]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.15-01.26.08:296][689]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.15-01.26.08:296][689]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.15-01.26.08:296][689]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.15-01.26.08:296][689]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.15-01.26.08:296][689]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.15-01.26.08:296][689]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.15-01.26.08:296][689]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.15-01.26.08:297][689]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.15-01.26.08:297][689]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.15-01.26.08:297][689]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.15-01.26.08:299][689]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.15-01.26.08:350][689]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (HyperX Virtual Surround Sound)
+[2022.09.15-01.26.08:350][689]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.15-01.26.08:350][689]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.15-01.26.08:351][689]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.15-01.26.08:352][689]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.09.15-01.26.08:352][689]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.09.15-01.26.08:354][689]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.09.15-01.26.08:354][689]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.09.15-01.26.08:354][689]LogInit: FAudioDevice initialized.
+[2022.09.15-01.26.08:354][689]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level1'.
+[2022.09.15-01.26.08:370][689]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.15-01.26.08:372][689]LogWorld: Bringing World /Game/CrystalCavern/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.09.14-21.26.08
+[2022.09.15-01.26.08:372][689]LogWorld: Bringing up level for play took: 0.001704
+[2022.09.15-01.26.08:374][689]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2022.09.15-01.26.08:413][689]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.09.15-01.26.08:413][689]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.09.15-01.26.08:413][689]PIE: Server logged in
+[2022.09.15-01.26.08:415][689]PIE: Play in editor total start time 0.164 seconds.
+[2022.09.15-01.26.10:314][783]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.09.15-01.26.10:314][783]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.09.15-01.26.24:783][676]LogNet: Browse: /Game/CrystalCavern/Levels/Level2
+[2022.09.15-01.26.24:783][676]LogLoad: LoadMap: /Game/CrystalCavern/Levels/Level2
+[2022.09.15-01.26.24:783][676]LogWorld: BeginTearingDown for /Game/CrystalCavern/Levels/UEDPIE_0_Level1
+[2022.09.15-01.26.24:783][676]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.09.15-01.26.24:783][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-01.26.24:792][676]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.15-01.26.24:801][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.09.15-01.26.25:181][676]LogStaticMesh: StaticMesh /Game/StarterContent/Props/MaterialSphere.MaterialSphere should be resaved to improve async compilation performance.
+[2022.09.15-01.26.25:278][676]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level2'.
+[2022.09.15-01.26.25:278][676]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.15-01.26.25:278][676]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.15-01.26.25:279][676]LogAIModule: Creating AISystem for world Level2
+[2022.09.15-01.26.25:280][676]LogPlayLevel: PIE: World Init took: (0.001376s)
+[2022.09.15-01.26.25:280][676]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.15-01.26.25:313][676]LogWorld: Bringing World /Game/CrystalCavern/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2022.09.14-21.26.25
+[2022.09.15-01.26.25:314][676]LogWorld: Bringing up level for play took: 0.016657
+[2022.09.15-01.26.25:317][676]LogLoad: Took 0.533903 seconds to LoadMap(/Game/CrystalCavern/Levels/Level2)
+[2022.09.15-01.27.44:160][ 55]LogNet: Browse: /Game/CrystalCavern/Levels/Level3
+[2022.09.15-01.27.44:160][ 55]LogLoad: LoadMap: /Game/CrystalCavern/Levels/Level3
+[2022.09.15-01.27.44:160][ 55]LogWorld: BeginTearingDown for /Game/CrystalCavern/Levels/UEDPIE_0_Level2
+[2022.09.15-01.27.44:160][ 55]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2022.09.15-01.27.44:160][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-01.27.44:190][ 55]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.15-01.27.44:194][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.09.15-01.27.44:585][ 55]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight', its maximum texture size has been explicitly set to 512.
+[2022.09.15-01.27.44:723][ 55]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level3'.
+[2022.09.15-01.27.44:723][ 55]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.15-01.27.44:723][ 55]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.15-01.27.44:723][ 55]LogAIModule: Creating AISystem for world Level3
+[2022.09.15-01.27.44:724][ 55]LogPlayLevel: PIE: World Init took: (0.001313s)
+[2022.09.15-01.27.44:724][ 55]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.15-01.27.44:757][ 55]LogWorld: Bringing World /Game/CrystalCavern/Levels/UEDPIE_0_Level3.Level3 up for play (max tick rate 0) at 2022.09.14-21.27.44
+[2022.09.15-01.27.44:757][ 55]LogWorld: Bringing up level for play took: 0.030797
+[2022.09.15-01.27.44:760][ 55]LogLoad: Took 0.600168 seconds to LoadMap(/Game/CrystalCavern/Levels/Level3)
+[2022.09.15-01.27.44:807][ 57]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.09.15-01.27.47:982][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.15-01.27.47:982][196]LogWorld: BeginTearingDown for /Game/CrystalCavern/Levels/UEDPIE_0_Level3
+[2022.09.15-01.27.47:983][196]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2022.09.15-01.27.47:984][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-01.27.48:010][196]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.15-01.27.48:013][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-01.27.48:024][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.15-01.27.48:025][196]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.09.15-01.27.48:027][196]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.09.15-01.27.48:036][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.09.15-01.27.48:074][197]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2022.09.15-01.27.51:039][373]LogSlate: Took 0.028585 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.09.15-01.27.51:064][373]LogSlate: Took 0.017867 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.15-01.27.55:134][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.09.15-01.27.55:237][617]LogAssetEditorSubsystem: Opening Asset editor for World /Game/CrystalCavern/Levels/Level2.Level2
+[2022.09.15-01.27.55:238][617]Cmd: MAP LOAD FILE="../../../../../my games/CrystalCavern/Content/CrystalCavern/Levels/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.15-01.27.55:238][617]LightingResults: New page: Lighting Build
+[2022.09.15-01.27.55:238][617]LoadErrors: New page: Loading map: Level2.umap
+[2022.09.15-01.27.55:240][617]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.09.15-01.27.55:240][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-01.27.55:240][617]MapCheck: New page: Map Check
+[2022.09.15-01.27.55:240][617]LightingResults: New page: Lighting Build
+[2022.09.15-01.27.55:249][617]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.15-01.27.55:251][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.09.15-01.27.55:254][617]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2022.09.15-01.27.55:254][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-01.27.55:266][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.09.15-01.27.55:276][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.09.15-01.27.55:301][617]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2022.09.15-01.27.55:301][617]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.15-01.27.55:302][617]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.15-01.27.55:302][617]LogAIModule: Creating AISystem for world Level2
+[2022.09.15-01.27.55:346][617]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.15-01.27.55:360][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.09.15-01.27.55:373][617]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.15-01.27.55:374][617]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.116ms to complete.
+[2022.09.15-01.27.55:374][617]LogFileHelpers: Loading map 'Level2' took 0.136
+[2022.09.15-01.29.14:761][ 45]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2022.09.15-01.29.14:761][ 45]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2022.09.15-01.29.51:897][ 18]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.15-01.29.51:897][ 18]PIE: New page: PIE session: Level2 (Sep 14, 2022, 5:29:51 PM)
+[2022.09.15-01.29.51:897][ 18]LogPlayLevel: Creating play world package: /Game/CrystalCavern/Levels/UEDPIE_0_Level2
+[2022.09.15-01.29.51:934][ 18]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036137s)
+[2022.09.15-01.29.51:934][ 18]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CrystalCavern/Levels/Level2.Level2 to /Game/CrystalCavern/Levels/UEDPIE_0_Level2.Level2 (0.036264s)
+[2022.09.15-01.29.51:934][ 18]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.15-01.29.51:934][ 18]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.15-01.29.51:934][ 18]LogAIModule: Creating AISystem for world Level2
+[2022.09.15-01.29.51:935][ 18]LogPlayLevel: PIE: World Init took: (0.001224s)
+[2022.09.15-01.29.51:949][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.09.15-01.29.51:950][ 18]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.09.15-01.29.51:950][ 18]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.15-01.29.51:950][ 18]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.15-01.29.51:950][ 18]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.15-01.29.51:950][ 18]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.15-01.29.51:950][ 18]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.15-01.29.51:950][ 18]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.15-01.29.51:950][ 18]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.15-01.29.51:950][ 18]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.15-01.29.51:951][ 18]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.15-01.29.51:951][ 18]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.15-01.29.51:951][ 18]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.15-01.29.51:953][ 18]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.15-01.29.52:019][ 18]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (HyperX Virtual Surround Sound)
+[2022.09.15-01.29.52:019][ 18]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.15-01.29.52:019][ 18]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.15-01.29.52:019][ 18]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.15-01.29.52:021][ 18]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.09.15-01.29.52:021][ 18]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.09.15-01.29.52:024][ 18]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.09.15-01.29.52:024][ 18]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.09.15-01.29.52:024][ 18]LogInit: FAudioDevice initialized.
+[2022.09.15-01.29.52:024][ 18]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level2'.
+[2022.09.15-01.29.52:038][ 18]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.15-01.29.52:044][ 18]LogWorld: Bringing World /Game/CrystalCavern/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2022.09.14-21.29.52
+[2022.09.15-01.29.52:044][ 18]LogWorld: Bringing up level for play took: 0.005333
+[2022.09.15-01.29.52:046][ 18]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2022.09.15-01.29.52:049][ 18]PIE: Server logged in
+[2022.09.15-01.29.52:050][ 18]PIE: Play in editor total start time 0.153 seconds.
+[2022.09.15-01.30.26:901][895]LogBlueprintUserMessages: [BP_WinVolume_C_3] There are more crystals to collect
+[2022.09.15-01.30.29:783][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.15-01.30.29:783][ 47]LogWorld: BeginTearingDown for /Game/CrystalCavern/Levels/UEDPIE_0_Level2
+[2022.09.15-01.30.29:783][ 47]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2022.09.15-01.30.29:784][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-01.30.29:802][ 47]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.15-01.30.29:805][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-01.30.29:815][ 47]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.15-01.30.29:815][ 47]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.09.15-01.30.29:817][ 47]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.09.15-01.30.29:821][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.15-01.30.29:823][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.09.15-01.30.29:908][ 48]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.09.15-01.30.59:590][544]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.15-01.30.59:590][544]PIE: New page: PIE session: Level2 (Sep 14, 2022, 5:30:59 PM)
+[2022.09.15-01.30.59:590][544]LogPlayLevel: Creating play world package: /Game/CrystalCavern/Levels/UEDPIE_0_Level2
+[2022.09.15-01.30.59:626][544]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035358s)
+[2022.09.15-01.30.59:626][544]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CrystalCavern/Levels/Level2.Level2 to /Game/CrystalCavern/Levels/UEDPIE_0_Level2.Level2 (0.035494s)
+[2022.09.15-01.30.59:626][544]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.15-01.30.59:626][544]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.15-01.30.59:626][544]LogAIModule: Creating AISystem for world Level2
+[2022.09.15-01.30.59:627][544]LogPlayLevel: PIE: World Init took: (0.001228s)
+[2022.09.15-01.30.59:638][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.09.15-01.30.59:639][544]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.09.15-01.30.59:639][544]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.15-01.30.59:639][544]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.15-01.30.59:639][544]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.15-01.30.59:639][544]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.15-01.30.59:639][544]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.15-01.30.59:639][544]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.15-01.30.59:639][544]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.15-01.30.59:639][544]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.15-01.30.59:639][544]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.15-01.30.59:640][544]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.15-01.30.59:640][544]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.15-01.30.59:643][544]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.15-01.30.59:698][544]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (HyperX Virtual Surround Sound)
+[2022.09.15-01.30.59:698][544]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.15-01.30.59:698][544]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.15-01.30.59:698][544]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.15-01.30.59:700][544]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.09.15-01.30.59:700][544]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.09.15-01.30.59:702][544]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.09.15-01.30.59:702][544]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.09.15-01.30.59:702][544]LogInit: FAudioDevice initialized.
+[2022.09.15-01.30.59:702][544]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level2'.
+[2022.09.15-01.30.59:715][544]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.15-01.30.59:719][544]LogWorld: Bringing World /Game/CrystalCavern/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2022.09.14-21.30.59
+[2022.09.15-01.30.59:719][544]LogWorld: Bringing up level for play took: 0.004245
+[2022.09.15-01.30.59:722][544]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2022.09.15-01.30.59:724][544]PIE: Server logged in
+[2022.09.15-01.30.59:726][544]PIE: Play in editor total start time 0.136 seconds.
+[2022.09.15-01.31.06:443][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.15-01.31.06:443][857]LogWorld: BeginTearingDown for /Game/CrystalCavern/Levels/UEDPIE_0_Level2
+[2022.09.15-01.31.06:443][857]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2022.09.15-01.31.06:444][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-01.31.06:459][857]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.15-01.31.06:462][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-01.31.06:472][857]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.15-01.31.06:472][857]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.09.15-01.31.06:474][857]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.09.15-01.31.06:479][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.15-01.31.06:482][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.09.15-01.31.06:570][858]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.09.15-01.31.20:011][468]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.15-01.31.20:011][468]PIE: New page: PIE session: Level2 (Sep 14, 2022, 5:31:20 PM)
+[2022.09.15-01.31.20:011][468]LogPlayLevel: Creating play world package: /Game/CrystalCavern/Levels/UEDPIE_0_Level2
+[2022.09.15-01.31.20:039][468]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027571s)
+[2022.09.15-01.31.20:039][468]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CrystalCavern/Levels/Level2.Level2 to /Game/CrystalCavern/Levels/UEDPIE_0_Level2.Level2 (0.027686s)
+[2022.09.15-01.31.20:039][468]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.15-01.31.20:039][468]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.15-01.31.20:039][468]LogAIModule: Creating AISystem for world Level2
+[2022.09.15-01.31.20:040][468]LogPlayLevel: PIE: World Init took: (0.001033s)
+[2022.09.15-01.31.20:051][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.09.15-01.31.20:052][468]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.09.15-01.31.20:052][468]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.15-01.31.20:052][468]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.15-01.31.20:052][468]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.15-01.31.20:052][468]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.15-01.31.20:052][468]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.15-01.31.20:052][468]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.15-01.31.20:052][468]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.15-01.31.20:052][468]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.15-01.31.20:053][468]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.15-01.31.20:053][468]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.15-01.31.20:053][468]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.15-01.31.20:055][468]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.15-01.31.20:109][468]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (HyperX Virtual Surround Sound)
+[2022.09.15-01.31.20:110][468]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.15-01.31.20:110][468]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.15-01.31.20:110][468]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.15-01.31.20:112][468]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.09.15-01.31.20:112][468]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.09.15-01.31.20:113][468]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.09.15-01.31.20:114][468]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.09.15-01.31.20:114][468]LogInit: FAudioDevice initialized.
+[2022.09.15-01.31.20:114][468]LogAudio: Display: Audio Device (ID: 5) registered with world 'Level2'.
+[2022.09.15-01.31.20:130][468]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.15-01.31.20:133][468]LogWorld: Bringing World /Game/CrystalCavern/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2022.09.14-21.31.20
+[2022.09.15-01.31.20:134][468]LogWorld: Bringing up level for play took: 0.003970
+[2022.09.15-01.31.20:136][468]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2022.09.15-01.31.20:138][468]PIE: Server logged in
+[2022.09.15-01.31.20:139][468]PIE: Play in editor total start time 0.128 seconds.
+[2022.09.15-01.31.28:335][892]LogBlueprintUserMessages: [BP_WinVolume_C_3] There are more crystals to collect
+[2022.09.15-01.31.30:063][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.15-01.31.30:063][981]LogWorld: BeginTearingDown for /Game/CrystalCavern/Levels/UEDPIE_0_Level2
+[2022.09.15-01.31.30:063][981]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2022.09.15-01.31.30:064][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-01.31.30:147][981]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.15-01.31.30:151][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-01.31.30:166][981]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.15-01.31.30:166][981]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.09.15-01.31.30:168][981]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.09.15-01.31.30:199][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.15-01.31.30:218][981]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2022.09.15-01.31.30:354][982]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.09.15-01.31.38:871][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CrystalCavern/Levels/Level2" FILE="../../../../../my games/CrystalCavern/Content/CrystalCavern/Levels/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.15-01.31.38:881][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.09.15-01.31.38:887][431]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.005417 seconds
+[2022.09.15-01.31.38:931][431]LogSavePackage: Moving output files for package: /Game/CrystalCavern/Levels/Level2
+[2022.09.15-01.31.38:931][431]LogSavePackage: Moving '../../../../../my games/CrystalCavern/Saved/Level2245C526145D971A2636FBF8FBA98A7AC.tmp' to '../../../../../my games/CrystalCavern/Content/CrystalCavern/Levels/Level2.umap'
+[2022.09.15-01.31.38:957][431]AssetCheck: New page: Asset Save: Level2
+[2022.09.15-01.31.38:957][431]LogContentValidation: Display: Validating World /Game/CrystalCavern/Levels/Level2.Level2
+[2022.09.15-01.32.35:358][635]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.09.15-01.32.36:606][705]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.09.15-01.32.50:691][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CrystalCavern/Levels/Level2" FILE="../../../../../my games/CrystalCavern/Content/CrystalCavern/Levels/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.15-01.32.50:703][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.09.15-01.32.50:754][436]LogSavePackage: Moving output files for package: /Game/CrystalCavern/Levels/Level2
+[2022.09.15-01.32.50:754][436]LogSavePackage: Moving '../../../../../my games/CrystalCavern/Saved/Level2D0C4FD5E48AA39379832AD8EDEAFCC9A.tmp' to '../../../../../my games/CrystalCavern/Content/CrystalCavern/Levels/Level2.umap'
+[2022.09.15-01.32.50:785][436]AssetCheck: New page: Asset Save: Level2
+[2022.09.15-01.32.50:785][436]LogContentValidation: Display: Validating World /Game/CrystalCavern/Levels/Level2.Level2
+[2022.09.15-01.32.51:372][469]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.09.15-01.32.51:384][469]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.15-01.32.51:384][469]PIE: New page: PIE session: Level2 (Sep 14, 2022, 5:32:51 PM)
+[2022.09.15-01.32.51:423][469]LogPlayLevel: Creating play world package: /Game/CrystalCavern/Levels/UEDPIE_0_Level2
+[2022.09.15-01.32.51:453][469]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029163s)
+[2022.09.15-01.32.51:453][469]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CrystalCavern/Levels/Level2.Level2 to /Game/CrystalCavern/Levels/UEDPIE_0_Level2.Level2 (0.029305s)
+[2022.09.15-01.32.51:453][469]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.15-01.32.51:453][469]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.15-01.32.51:453][469]LogAIModule: Creating AISystem for world Level2
+[2022.09.15-01.32.51:454][469]LogPlayLevel: PIE: World Init took: (0.001100s)
+[2022.09.15-01.32.51:467][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.09.15-01.32.51:469][469]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.09.15-01.32.51:469][469]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.15-01.32.51:469][469]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.15-01.32.51:469][469]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.15-01.32.51:469][469]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.15-01.32.51:469][469]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.15-01.32.51:469][469]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.15-01.32.51:469][469]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.15-01.32.51:469][469]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.15-01.32.51:469][469]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.15-01.32.51:469][469]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.15-01.32.51:470][469]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.15-01.32.51:472][469]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.15-01.32.51:523][469]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (HyperX Virtual Surround Sound)
+[2022.09.15-01.32.51:523][469]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.15-01.32.51:523][469]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.15-01.32.51:523][469]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.15-01.32.51:524][469]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.09.15-01.32.51:524][469]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2022.09.15-01.32.51:526][469]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.09.15-01.32.51:526][469]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.09.15-01.32.51:526][469]LogInit: FAudioDevice initialized.
+[2022.09.15-01.32.51:526][469]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level2'.
+[2022.09.15-01.32.51:538][469]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.15-01.32.51:542][469]LogWorld: Bringing World /Game/CrystalCavern/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2022.09.14-21.32.51
+[2022.09.15-01.32.51:542][469]LogWorld: Bringing up level for play took: 0.004049
+[2022.09.15-01.32.51:544][469]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2022.09.15-01.32.51:547][469]PIE: Server logged in
+[2022.09.15-01.32.51:548][469]PIE: Play in editor total start time 0.164 seconds.
+[2022.09.15-01.33.02:024][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.15-01.33.02:024][ 38]LogWorld: BeginTearingDown for /Game/CrystalCavern/Levels/UEDPIE_0_Level2
+[2022.09.15-01.33.02:024][ 38]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2022.09.15-01.33.02:025][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-01.33.02:042][ 38]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.15-01.33.02:044][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-01.33.02:054][ 38]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.15-01.33.02:055][ 38]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.09.15-01.33.02:057][ 38]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.09.15-01.33.02:060][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.15-01.33.02:063][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.09.15-01.33.02:158][ 39]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.09.15-01.33.14:841][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CrystalCavern/Levels/Level2" FILE="../../../../../my games/CrystalCavern/Content/CrystalCavern/Levels/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.15-01.33.14:851][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.09.15-01.33.14:897][759]LogSavePackage: Moving output files for package: /Game/CrystalCavern/Levels/Level2
+[2022.09.15-01.33.14:898][759]LogSavePackage: Moving '../../../../../my games/CrystalCavern/Saved/Level279752D714C9CC8124CFD8D8C8C79A104.tmp' to '../../../../../my games/CrystalCavern/Content/CrystalCavern/Levels/Level2.umap'
+[2022.09.15-01.33.14:928][759]AssetCheck: New page: Asset Save: Level2
+[2022.09.15-01.33.14:928][759]LogContentValidation: Display: Validating World /Game/CrystalCavern/Levels/Level2.Level2
+[2022.09.15-01.33.15:290][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.09.15-01.33.32:440][786]LogEditorViewport: Clicking Background
+[2022.09.15-01.33.35:349][951]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CrystalCavern/Blueprints/Actors/Volumes/BP_DamageVolume.BP_DamageVolume_C
+[2022.09.15-01.33.35:349][951]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CrystalCavern/Blueprints/Actors/Volumes/BP_DamageVolume.BP_DamageVolume_C
+[2022.09.15-01.33.35:350][951]LogActorFactory: Actor Factory spawned Blueprint /Game/CrystalCavern/Blueprints/Actors/Volumes/BP_DamageVolume.BP_DamageVolume as actor: BP_DamageVolume_C /Game/CrystalCavern/Levels/Level2.Level2:PersistentLevel.BP_DamageVolume_C_0
+[2022.09.15-01.33.35:351][951]LogActorFactory: Actor Factory spawned Blueprint /Game/CrystalCavern/Blueprints/Actors/Volumes/BP_DamageVolume.BP_DamageVolume as actor: BP_DamageVolume_C /Game/CrystalCavern/Levels/Level2.Level2:PersistentLevel.BP_DamageVolume_C_0
+[2022.09.15-01.33.35:949][992]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CrystalCavern/Blueprints/Actors/Volumes/BP_DamageVolume.BP_DamageVolume_C
+[2022.09.15-01.33.35:949][992]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CrystalCavern/Blueprints/Actors/Volumes/BP_DamageVolume.BP_DamageVolume_C
+[2022.09.15-01.33.35:954][992]LogActorFactory: Actor Factory spawned Blueprint /Game/CrystalCavern/Blueprints/Actors/Volumes/BP_DamageVolume.BP_DamageVolume as actor: BP_DamageVolume_C /Game/CrystalCavern/Levels/Level2.Level2:PersistentLevel.BP_DamageVolume_C_1
+[2022.09.15-01.33.35:954][992]LogActorFactory: Actor Factory spawned Blueprint /Game/CrystalCavern/Blueprints/Actors/Volumes/BP_DamageVolume.BP_DamageVolume as actor: BP_DamageVolume_C /Game/CrystalCavern/Levels/Level2.Level2:PersistentLevel.BP_DamageVolume_C_1
+[2022.09.15-01.35.47:265][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CrystalCavern/Levels/Level2" FILE="../../../../../my games/CrystalCavern/Content/CrystalCavern/Levels/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.15-01.35.47:290][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.09.15-01.35.47:338][749]LogSavePackage: Moving output files for package: /Game/CrystalCavern/Levels/Level2
+[2022.09.15-01.35.47:338][749]LogSavePackage: Moving '../../../../../my games/CrystalCavern/Saved/Level284881E8D466CBA8BD5DA9DB3D2AE2940.tmp' to '../../../../../my games/CrystalCavern/Content/CrystalCavern/Levels/Level2.umap'
+[2022.09.15-01.35.47:366][749]AssetCheck: New page: Asset Save: Level2
+[2022.09.15-01.35.47:366][749]LogContentValidation: Display: Validating World /Game/CrystalCavern/Levels/Level2.Level2
+[2022.09.15-01.35.47:982][811]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.09.15-01.35.47:993][811]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.15-01.35.47:993][811]PIE: New page: PIE session: Level2 (Sep 14, 2022, 5:35:47 PM)
+[2022.09.15-01.35.48:023][811]LogPlayLevel: Creating play world package: /Game/CrystalCavern/Levels/UEDPIE_0_Level2
+[2022.09.15-01.35.48:052][811]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028959s)
+[2022.09.15-01.35.48:052][811]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CrystalCavern/Levels/Level2.Level2 to /Game/CrystalCavern/Levels/UEDPIE_0_Level2.Level2 (0.029098s)
+[2022.09.15-01.35.48:052][811]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.15-01.35.48:052][811]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.15-01.35.48:053][811]LogAIModule: Creating AISystem for world Level2
+[2022.09.15-01.35.48:053][811]LogPlayLevel: PIE: World Init took: (0.001209s)
+[2022.09.15-01.35.48:064][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.09.15-01.35.48:064][811]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.09.15-01.35.48:064][811]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.15-01.35.48:064][811]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.15-01.35.48:064][811]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.15-01.35.48:064][811]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.15-01.35.48:064][811]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.15-01.35.48:064][811]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.15-01.35.48:064][811]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.15-01.35.48:064][811]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.15-01.35.48:065][811]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.15-01.35.48:065][811]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.15-01.35.48:065][811]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.15-01.35.48:067][811]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.15-01.35.48:118][811]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (HyperX Virtual Surround Sound)
+[2022.09.15-01.35.48:119][811]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.15-01.35.48:119][811]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.15-01.35.48:119][811]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.15-01.35.48:120][811]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2022.09.15-01.35.48:120][811]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2022.09.15-01.35.48:122][811]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2022.09.15-01.35.48:122][811]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2022.09.15-01.35.48:122][811]LogInit: FAudioDevice initialized.
+[2022.09.15-01.35.48:122][811]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level2'.
+[2022.09.15-01.35.48:138][811]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.15-01.35.48:142][811]LogWorld: Bringing World /Game/CrystalCavern/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2022.09.14-21.35.48
+[2022.09.15-01.35.48:142][811]LogWorld: Bringing up level for play took: 0.004171
+[2022.09.15-01.35.48:144][811]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2022.09.15-01.35.48:147][811]PIE: Server logged in
+[2022.09.15-01.35.48:148][811]PIE: Play in editor total start time 0.155 seconds.
+[2022.09.15-01.35.53:576][117]LogNet: Browse: /Game/CrystalCavern/Levels/Level2
+[2022.09.15-01.35.53:576][117]LogLoad: LoadMap: /Game/CrystalCavern/Levels/Level2
+[2022.09.15-01.35.53:576][117]LogWorld: BeginTearingDown for /Game/CrystalCavern/Levels/UEDPIE_0_Level2
+[2022.09.15-01.35.53:577][117]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2022.09.15-01.35.53:577][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-01.35.53:613][117]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.15-01.35.53:615][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.09.15-01.35.53:617][117]LogPlayLevel: Creating play world package: /Game/CrystalCavern/Levels/UEDPIE_0_Level2
+[2022.09.15-01.35.53:647][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029721s)
+[2022.09.15-01.35.53:647][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CrystalCavern/Levels/Level2.Level2 to /Game/CrystalCavern/Levels/UEDPIE_0_Level2.Level2 (0.029851s)
+[2022.09.15-01.35.53:647][117]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level2'.
+[2022.09.15-01.35.53:647][117]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.15-01.35.53:647][117]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.15-01.35.53:648][117]LogAIModule: Creating AISystem for world Level2
+[2022.09.15-01.35.53:648][117]LogPlayLevel: PIE: World Init took: (0.001079s)
+[2022.09.15-01.35.53:648][117]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.15-01.35.53:652][117]LogWorld: Bringing World /Game/CrystalCavern/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2022.09.14-21.35.53
+[2022.09.15-01.35.53:652][117]LogWorld: Bringing up level for play took: 0.003609
+[2022.09.15-01.35.53:655][117]LogLoad: Took 0.078535 seconds to LoadMap(/Game/CrystalCavern/Levels/UEDPIE_0_Level2)
+[2022.09.15-01.36.00:103][483]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.15-01.36.00:103][483]LogWorld: BeginTearingDown for /Game/CrystalCavern/Levels/UEDPIE_0_Level2
+[2022.09.15-01.36.00:104][483]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2022.09.15-01.36.00:105][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-01.36.00:126][483]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.15-01.36.00:129][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-01.36.00:140][483]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.15-01.36.00:141][483]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.09.15-01.36.00:142][483]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.09.15-01.36.00:149][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.09.15-01.36.00:214][484]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.09.15-01.36.07:060][105]LogViewport: Scene viewport resized to 1045x902, mode Windowed.
+[2022.09.15-01.36.09:124][281]LogViewport: Scene viewport resized to 1170x902, mode Windowed.
+[2022.09.15-01.36.12:225][602]LogEditorViewport: Clicking Background
+[2022.09.15-01.36.19:300][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CrystalCavern/Levels/Level2" FILE="../../../../../my games/CrystalCavern/Content/CrystalCavern/Levels/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.15-01.36.19:309][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.09.15-01.36.19:356][311]LogSavePackage: Moving output files for package: /Game/CrystalCavern/Levels/Level2
+[2022.09.15-01.36.19:356][311]LogSavePackage: Moving '../../../../../my games/CrystalCavern/Saved/Level2048E896A49CE08D3C242AFAE4DB6E878.tmp' to '../../../../../my games/CrystalCavern/Content/CrystalCavern/Levels/Level2.umap'
+[2022.09.15-01.36.19:386][311]AssetCheck: New page: Asset Save: Level2
+[2022.09.15-01.36.19:386][311]LogContentValidation: Display: Validating World /Game/CrystalCavern/Levels/Level2.Level2
+[2022.09.15-01.36.21:468][499]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.09.15-01.36.21:480][499]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.15-01.36.21:480][499]PIE: New page: PIE session: Level2 (Sep 14, 2022, 5:36:21 PM)
+[2022.09.15-01.36.21:480][499]LogPlayLevel: Creating play world package: /Game/CrystalCavern/Levels/UEDPIE_0_Level2
+[2022.09.15-01.36.21:510][499]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029892s)
+[2022.09.15-01.36.21:510][499]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CrystalCavern/Levels/Level2.Level2 to /Game/CrystalCavern/Levels/UEDPIE_0_Level2.Level2 (0.030024s)
+[2022.09.15-01.36.21:510][499]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.15-01.36.21:510][499]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.15-01.36.21:511][499]LogAIModule: Creating AISystem for world Level2
+[2022.09.15-01.36.21:511][499]LogPlayLevel: PIE: World Init took: (0.001165s)
+[2022.09.15-01.36.21:521][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.09.15-01.36.21:522][499]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.09.15-01.36.21:522][499]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.15-01.36.21:522][499]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.15-01.36.21:522][499]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.15-01.36.21:522][499]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.15-01.36.21:522][499]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.15-01.36.21:522][499]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.15-01.36.21:522][499]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.15-01.36.21:522][499]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.15-01.36.21:522][499]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.15-01.36.21:522][499]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.15-01.36.21:522][499]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.15-01.36.21:525][499]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.15-01.36.21:575][499]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (HyperX Virtual Surround Sound)
+[2022.09.15-01.36.21:576][499]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.15-01.36.21:576][499]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.15-01.36.21:576][499]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.15-01.36.21:577][499]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2022.09.15-01.36.21:577][499]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2022.09.15-01.36.21:578][499]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2022.09.15-01.36.21:578][499]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2022.09.15-01.36.21:578][499]LogInit: FAudioDevice initialized.
+[2022.09.15-01.36.21:578][499]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level2'.
+[2022.09.15-01.36.21:589][499]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.15-01.36.21:594][499]LogWorld: Bringing World /Game/CrystalCavern/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2022.09.14-21.36.21
+[2022.09.15-01.36.21:595][499]LogWorld: Bringing up level for play took: 0.004864
+[2022.09.15-01.36.21:597][499]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2022.09.15-01.36.21:599][499]PIE: Server logged in
+[2022.09.15-01.36.21:600][499]PIE: Play in editor total start time 0.12 seconds.
+[2022.09.15-01.37.38:567][535]LogNet: Browse: /Game/CrystalCavern/Levels/Level3
+[2022.09.15-01.37.38:567][535]LogLoad: LoadMap: /Game/CrystalCavern/Levels/Level3
+[2022.09.15-01.37.38:567][535]LogWorld: BeginTearingDown for /Game/CrystalCavern/Levels/UEDPIE_0_Level2
+[2022.09.15-01.37.38:567][535]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2022.09.15-01.37.38:568][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-01.37.38:603][535]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.15-01.37.38:606][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.09.15-01.37.38:641][535]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level3'.
+[2022.09.15-01.37.38:641][535]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.15-01.37.38:641][535]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.15-01.37.38:641][535]LogAIModule: Creating AISystem for world Level3
+[2022.09.15-01.37.38:642][535]LogPlayLevel: PIE: World Init took: (0.001337s)
+[2022.09.15-01.37.38:642][535]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.15-01.37.38:672][535]LogWorld: Bringing World /Game/CrystalCavern/Levels/UEDPIE_0_Level3.Level3 up for play (max tick rate 0) at 2022.09.14-21.37.38
+[2022.09.15-01.37.38:672][535]LogWorld: Bringing up level for play took: 0.029988
+[2022.09.15-01.37.38:675][535]LogLoad: Took 0.107943 seconds to LoadMap(/Game/CrystalCavern/Levels/Level3)
+[2022.09.15-01.37.39:954][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.15-01.37.39:954][610]LogWorld: BeginTearingDown for /Game/CrystalCavern/Levels/UEDPIE_0_Level3
+[2022.09.15-01.37.39:955][610]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2022.09.15-01.37.39:956][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-01.37.39:972][610]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.15-01.37.39:974][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-01.37.39:985][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.15-01.37.39:985][610]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.09.15-01.37.39:987][610]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.09.15-01.37.39:993][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.09.15-01.37.40:081][611]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.09.15-01.37.42:003][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CrystalCavern/Levels/Level2" FILE="../../../../../my games/CrystalCavern/Content/CrystalCavern/Levels/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.15-01.37.42:013][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.09.15-01.37.42:061][800]LogSavePackage: Moving output files for package: /Game/CrystalCavern/Levels/Level2
+[2022.09.15-01.37.42:062][800]LogSavePackage: Moving '../../../../../my games/CrystalCavern/Saved/Level2836E7D45402A1FB3F4606CAFB5F6ADE3.tmp' to '../../../../../my games/CrystalCavern/Content/CrystalCavern/Levels/Level2.umap'
+[2022.09.15-01.37.42:088][800]AssetCheck: New page: Asset Save: Level2
+[2022.09.15-01.37.42:088][800]LogContentValidation: Display: Validating World /Game/CrystalCavern/Levels/Level2.Level2
+[2022.09.15-01.40.31:068][158]LogViewport: Scene viewport resized to 1526x902, mode Windowed.
+[2022.09.15-01.40.34:861][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CrystalCavern/Levels/Level2" FILE="../../../../../my games/CrystalCavern/Content/CrystalCavern/Levels/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.15-01.40.34:872][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.09.15-01.40.34:919][323]LogSavePackage: Moving output files for package: /Game/CrystalCavern/Levels/Level2
+[2022.09.15-01.40.34:919][323]LogSavePackage: Moving '../../../../../my games/CrystalCavern/Saved/Level230BA66244F72E61E4DBCCCA07E15029E.tmp' to '../../../../../my games/CrystalCavern/Content/CrystalCavern/Levels/Level2.umap'
+[2022.09.15-01.40.34:965][323]AssetCheck: New page: Asset Save: Level2
+[2022.09.15-01.40.34:965][323]LogContentValidation: Display: Validating World /Game/CrystalCavern/Levels/Level2.Level2
+[2022.09.15-01.40.45:914][746]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.09.15-01.40.45:927][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.15-01.40.45:927][746]PIE: New page: PIE session: Level2 (Sep 14, 2022, 5:40:45 PM)
+[2022.09.15-01.40.45:927][746]LogPlayLevel: Creating play world package: /Game/CrystalCavern/Levels/UEDPIE_0_Level2
+[2022.09.15-01.40.45:963][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035854s)
+[2022.09.15-01.40.45:963][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CrystalCavern/Levels/Level2.Level2 to /Game/CrystalCavern/Levels/UEDPIE_0_Level2.Level2 (0.035985s)
+[2022.09.15-01.40.45:963][746]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.15-01.40.45:964][746]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.15-01.40.45:964][746]LogAIModule: Creating AISystem for world Level2
+[2022.09.15-01.40.45:965][746]LogPlayLevel: PIE: World Init took: (0.001241s)
+[2022.09.15-01.40.45:978][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.09.15-01.40.45:979][746]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.09.15-01.40.45:979][746]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.15-01.40.45:979][746]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.15-01.40.45:979][746]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.15-01.40.45:979][746]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.15-01.40.45:979][746]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.15-01.40.45:979][746]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.15-01.40.45:979][746]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.15-01.40.45:979][746]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.15-01.40.45:980][746]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.15-01.40.45:980][746]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.15-01.40.45:980][746]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.15-01.40.45:982][746]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.15-01.40.46:033][746]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (HyperX Virtual Surround Sound)
+[2022.09.15-01.40.46:034][746]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.15-01.40.46:034][746]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.15-01.40.46:034][746]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.15-01.40.46:035][746]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2022.09.15-01.40.46:035][746]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2022.09.15-01.40.46:037][746]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2022.09.15-01.40.46:037][746]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2022.09.15-01.40.46:037][746]LogInit: FAudioDevice initialized.
+[2022.09.15-01.40.46:037][746]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level2'.
+[2022.09.15-01.40.46:054][746]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.15-01.40.46:058][746]LogWorld: Bringing World /Game/CrystalCavern/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2022.09.14-21.40.46
+[2022.09.15-01.40.46:058][746]LogWorld: Bringing up level for play took: 0.004122
+[2022.09.15-01.40.46:060][746]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2022.09.15-01.40.46:062][746]PIE: Server logged in
+[2022.09.15-01.40.46:063][746]PIE: Play in editor total start time 0.137 seconds.
+[2022.09.15-01.41.15:379][320]LogNet: Browse: /Game/CrystalCavern/Levels/Level2
+[2022.09.15-01.41.15:379][320]LogLoad: LoadMap: /Game/CrystalCavern/Levels/Level2
+[2022.09.15-01.41.15:379][320]LogWorld: BeginTearingDown for /Game/CrystalCavern/Levels/UEDPIE_0_Level2
+[2022.09.15-01.41.15:380][320]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2022.09.15-01.41.15:380][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-01.41.15:392][320]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.15-01.41.15:398][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.09.15-01.41.15:409][320]LogPlayLevel: Creating play world package: /Game/CrystalCavern/Levels/UEDPIE_0_Level2
+[2022.09.15-01.41.15:439][320]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029629s)
+[2022.09.15-01.41.15:439][320]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CrystalCavern/Levels/Level2.Level2 to /Game/CrystalCavern/Levels/UEDPIE_0_Level2.Level2 (0.029783s)
+[2022.09.15-01.41.15:439][320]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level2'.
+[2022.09.15-01.41.15:439][320]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.15-01.41.15:439][320]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.15-01.41.15:440][320]LogAIModule: Creating AISystem for world Level2
+[2022.09.15-01.41.15:440][320]LogPlayLevel: PIE: World Init took: (0.001077s)
+[2022.09.15-01.41.15:440][320]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.15-01.41.15:444][320]LogWorld: Bringing World /Game/CrystalCavern/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2022.09.14-21.41.15
+[2022.09.15-01.41.15:444][320]LogWorld: Bringing up level for play took: 0.003654
+[2022.09.15-01.41.15:446][320]LogLoad: Took 0.067210 seconds to LoadMap(/Game/CrystalCavern/Levels/UEDPIE_0_Level2)
+[2022.09.15-01.41.26:797][962]LogNet: Browse: /Game/CrystalCavern/Levels/Level2
+[2022.09.15-01.41.26:797][962]LogLoad: LoadMap: /Game/CrystalCavern/Levels/Level2
+[2022.09.15-01.41.26:797][962]LogWorld: BeginTearingDown for /Game/CrystalCavern/Levels/UEDPIE_0_Level2
+[2022.09.15-01.41.26:797][962]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2022.09.15-01.41.26:798][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-01.41.26:834][962]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.15-01.41.26:837][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.09.15-01.41.26:839][962]LogPlayLevel: Creating play world package: /Game/CrystalCavern/Levels/UEDPIE_0_Level2
+[2022.09.15-01.41.26:868][962]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028425s)
+[2022.09.15-01.41.26:868][962]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CrystalCavern/Levels/Level2.Level2 to /Game/CrystalCavern/Levels/UEDPIE_0_Level2.Level2 (0.028561s)
+[2022.09.15-01.41.26:868][962]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level2'.
+[2022.09.15-01.41.26:868][962]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.15-01.41.26:868][962]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.15-01.41.26:868][962]LogAIModule: Creating AISystem for world Level2
+[2022.09.15-01.41.26:869][962]LogPlayLevel: PIE: World Init took: (0.001080s)
+[2022.09.15-01.41.26:869][962]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.15-01.41.26:873][962]LogWorld: Bringing World /Game/CrystalCavern/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2022.09.14-21.41.26
+[2022.09.15-01.41.26:873][962]LogWorld: Bringing up level for play took: 0.003890
+[2022.09.15-01.41.26:875][962]LogLoad: Took 0.078215 seconds to LoadMap(/Game/CrystalCavern/Levels/UEDPIE_0_Level2)
+[2022.09.15-01.42.48:453][252]LogNet: Browse: /Game/CrystalCavern/Levels/Level3
+[2022.09.15-01.42.48:453][252]LogLoad: LoadMap: /Game/CrystalCavern/Levels/Level3
+[2022.09.15-01.42.48:453][252]LogWorld: BeginTearingDown for /Game/CrystalCavern/Levels/UEDPIE_0_Level2
+[2022.09.15-01.42.48:453][252]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2022.09.15-01.42.48:454][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-01.42.48:466][252]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.15-01.42.48:476][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.09.15-01.42.48:524][252]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level3'.
+[2022.09.15-01.42.48:524][252]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.15-01.42.48:524][252]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.15-01.42.48:525][252]LogAIModule: Creating AISystem for world Level3
+[2022.09.15-01.42.48:525][252]LogPlayLevel: PIE: World Init took: (0.001182s)
+[2022.09.15-01.42.48:525][252]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.15-01.42.48:554][252]LogWorld: Bringing World /Game/CrystalCavern/Levels/UEDPIE_0_Level3.Level3 up for play (max tick rate 0) at 2022.09.14-21.42.48
+[2022.09.15-01.42.48:554][252]LogWorld: Bringing up level for play took: 0.029040
+[2022.09.15-01.42.48:557][252]LogLoad: Took 0.104425 seconds to LoadMap(/Game/CrystalCavern/Levels/Level3)
+[2022.09.15-01.43.36:796][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.15-01.43.36:796][783]LogWorld: BeginTearingDown for /Game/CrystalCavern/Levels/UEDPIE_0_Level3
+[2022.09.15-01.43.36:796][783]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2022.09.15-01.43.36:797][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-01.43.36:824][783]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.15-01.43.36:827][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-01.43.36:838][783]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.15-01.43.36:838][783]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.09.15-01.43.36:840][783]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.09.15-01.43.36:845][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.15-01.43.36:848][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.09.15-01.43.36:936][784]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.09.15-01.43.45:662][182]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CrystalCavern/Blueprints/Actors/Porjectiles/BP_Projectile.BP_Projectile
+[2022.09.15-01.43.45:663][182]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
